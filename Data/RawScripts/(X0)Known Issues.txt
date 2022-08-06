@@ -1,0 +1,9 @@
+=begin
+
+    1. Attack start up dialog displays immediately, even though the system allows the player to back up to previous
+        battler.
+    2.
+
+
+
+=end

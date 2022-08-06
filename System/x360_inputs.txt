@@ -1,0 +1,12 @@
+Up 545
+Down 544
+Left 543
+Right 542
+Dash 531
+Cancel 532
+Confirm 533
+Display 534
+Menu 530
+Pause 541
+PageUp 537
+PageDown 536

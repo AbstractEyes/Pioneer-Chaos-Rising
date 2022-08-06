@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <configuration default="false" name="Loader" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="RawScripts" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../.." />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/(1)secondary/(0X)disabled/launch.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(0)primary" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="ruby-1.9.3-p551" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="32" string0="$MODULE_DIR$/(1)secondary" string1="$MODULE_DIR$/(0)primary" string2="$MODULE_DIR$/(1)secondary/(0X)disabled" string3="$MODULE_DIR$/(1)secondary/map/(2)scenes" string4="$MODULE_DIR$/(1)secondary/(3)menu" string5="$MODULE_DIR$/(1)secondary/map" string6="$MODULE_DIR$/(1)secondary/(2)title" string7="$MODULE_DIR$/(1)secondary/(0)core" string8="$MODULE_DIR$/(1)secondary/map/(0)character" string9="$MODULE_DIR$/(1)secondary/map/(0)modules" string10="$MODULE_DIR$/(1)secondary/map/(1)data" string11="$MODULE_DIR$/(1)secondary/map/(1)interface" string12="$MODULE_DIR$/(1)secondary/map/(0)character/(0)character" string13="$MODULE_DIR$/(1)secondary/map/(0)character/(0)party" string14="$MODULE_DIR$/(1)secondary/map/(0)character/(0)sprite" string15="$MODULE_DIR$/(1)secondary/map/other" string16="$MODULE_DIR$/(1)secondary/craft/scene" string17="$MODULE_DIR$/(1)secondary/craft/data" string18="$MODULE_DIR$/(1)secondary/craft/storage" string19="$MODULE_DIR$/(1)secondary/craft" string20="$MODULE_DIR$/(1)secondary/(1)shapes" string21="$MODULE_DIR$/(1)secondary/map/virtual" string22="$MODULE_DIR$/(1)secondary/zexternal" string23="$MODULE_DIR$" string24="$MODULE_DIR$/(1)secondary/(3)menu/(0)options" string25="$MODULE_DIR$/(1)secondary/(3)menu/Formation" string26="$MODULE_DIR$/(1)secondary/(3)menu/macro" string27="$MODULE_DIR$/(1)secondary/(3)menu/main menu" string28="$MODULE_DIR$/(1)secondary/(0)core/(0)classes" string29="$MODULE_DIR$/(1)secondary/(0)core/(0)modules" string30="$MODULE_DIR$/(1)secondary/(3)menu/(0)options/(0)controls" string31="$MODULE_DIR$/(1)secondary/(3)menu/Party" />
+    <I18N_FOLDERS number="0" />
+  </component>
+</module>

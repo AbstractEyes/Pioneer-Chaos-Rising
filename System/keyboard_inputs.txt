@@ -1,0 +1,13 @@
+Keyboard Preset 3
+Up 87 38
+Down 83 40
+Left 65 37
+Right 68 39
+Dash 96 16
+Cancel 101 75
+Confirm 100 74
+Display 103 85
+Menu 104 -1
+Pause 80 -1
+PageUp 105 79
+PageDown 104 73

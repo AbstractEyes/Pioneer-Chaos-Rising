@@ -1,0 +1,59 @@
+=begin
+Inventory:
+    Create equipment template for single equipment type in module
+        Use old object model to create new object
+        New object will use base statistics of old model to hold a socketing object and temper pool
+    Create new equipment from new equipment template on launch:
+        Old equipment clone
+        Include new equipment stats:
+            Name
+                Pulled from a tree based on level
+            Level
+                Directly affects base stats of equipment and character its equipped to.
+            sockets:
+                based on level and equipment type
+            cri
+                critical hit rate bonus
+            cri_mul
+                critical multiplier bonus
+            res
+                overall res to all ele and phy
+            phy_res
+                resistance to physical traits overall
+            ele_res
+                resistance to elemental traits overall
+            status_res
+                resistance to lingering effects overall
+
+            physical_resistances
+                list of physical resistances hardcoded to weapon types
+                    sockets can affect this as well
+            elemental_resistances
+                list of elemental resistances hardcoded to weapon types
+                    sockets can affect this as well
+            physical_damages
+                list of physical damage bonuses
+                    sockets can affect this as well
+            elemental_damages
+                list of elemental damage bonuses
+                    sockets can affect this as well
+
+        Include socketing functions into equipment object directly.
+            socket(position)
+                remove enchantment from socket, and add this enchantment to that socket
+                removed enchantment is added to an enchantment list the party can access
+                some socketed enchantments cannot be removed
+            temper(symbol)
+                adds a temper amount to the pool of tempers
+                symbol points directly to a table of tempers
+        Equipment is always uniquely itself, never a direct clone.
+            Allow the player to name equipment.
+            Allow the player to break down or destroy equipment
+            Allow the player to temper or increase the equipment level and base statistics
+
+    Change how equipment is added and removed from inventory.
+        Secondary equipment inventory pool, accessible only in town.
+        Secondary bag inventory to store found equipment on the field.
+    Reassign actors with new types of equipment.
+        Every actor needs to be reassigned on launch to be given proper equipment.
+=end

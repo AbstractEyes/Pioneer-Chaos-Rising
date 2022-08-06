@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Inventory_Window.rb" line="133" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d566aa6-4f93-4bd0-a61b-0be2487beea4" name="Default" comment="" />
+    <ignored path="RawScripts.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RawScripts@Loader.coverage" NAME="Loader Coverage Results" MODIFIED="1520285706557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." MODULE_NAME="RawScripts" />
+    <SUITE FILE_PATH="coverage/RawScripts@All_tests_in__1_secondary__RawScripts.coverage" NAME="All tests in (1)secondary: RawScripts Coverage Results" MODIFIED="1481835523959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RawScripts" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Battle Rehaul">
+      <favorite_root url="file://$PROJECT_DIR$/(1)secondary/map/(2)scenes/(260) Scene_Map_Battle.rb" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/(0)primary/(18) Game_Battler.rb" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+    <favorites_list name="RawScripts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="220">
+      <file leaf-file-name="(260) Scene_Map_Battle.rb" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(2)Map Scenes/(3)scenes/(260) Scene_Map_Battle.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8449">
+              <caret line="497" column="22" lean-forward="false" selection-start-line="497" selection-start-column="22" selection-end-line="497" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(2) Sprite_Character.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Sprite_Character.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9146">
+              <caret line="538" column="43" lean-forward="false" selection-start-line="538" selection-start-column="43" selection-end-line="538" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(349)PHI_Character_Animations.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(349)PHI_Character_Animations.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="515" column="11" lean-forward="true" selection-start-line="515" selection-start-column="11" selection-end-line="515" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(205) PHI Game_Player.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)player/(205) PHI Game_Player.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1649">
+              <caret line="97" column="24" lean-forward="false" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(348) PHI Character_Shove.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(348) PHI Character_Shove.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3111">
+              <caret line="183" column="10" lean-forward="false" selection-start-line="183" selection-start-column="10" selection-end-line="183" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(347) YEM Extended Movement.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(347) YEM Extended Movement.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3638">
+              <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(32) Game_Character.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(0)primary/(32) Game_Character.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="40" lean-forward="false" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(350)PHI_Character_AniFramework.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(350)PHI_Character_AniFramework.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1717">
+              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(2)Equip_Scene.rb" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(2)Equip_Scene.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="76" column="29" lean-forward="false" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="(0)PHI_Icons.rb" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/(1)secondary/(9)Late Load/(1)modules/(0)PHI_Icons.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wait_for_animation</find>
+      <find>animation_list</find>
+      <find>animation?</find>
+      <find>targeting_battlers</find>
+      <find>wait</find>
+      <find>@animation_list</find>
+      <find>@battle_numerics</find>
+      <find>battle_numerics</find>
+      <find>numerics</find>
+      <find>display_attack_value</find>
+      <find>display_target_animation</find>
+      <find>display_attack_values</find>
+      <find>def draw_character</find>
+      <find>draw_character</find>
+      <find>user</find>
+      <find>set_bitmap</find>
+      <find>@character_name =</find>
+      <find>perform_move_animation</find>
+      <find>o_seq_rev</find>
+      <find>overwritten_animation?</find>
+      <find>@o_sequence</find>
+      <find>@o_seq_cur</find>
+      <find>o_seq_cur</find>
+      <find>update_animation</find>
+      <find>update_move</find>
+      <find>.pattern</find>
+      <find>pattern</find>
+      <find>@pattern</find>
+      <find>Game_Player</find>
+      <find>p</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts</dir>
+      <dir>C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(1)Construct</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally/(0) PHI Game_Party Caterpillar.rb" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/(1)secondary/(1)map/(2)Map Scenes/(3)scenes/(260) Scene_Map_Battle.rb" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(0)Modules/(0)Book_Data.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(3) Cache.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Enchant/(1)Enchant_Grid_Windows.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Help.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Inventory_Windows.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(9)Late Load/(9)latest/(1) Needed - ATS 3.0.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)AParent/(0)Equip_Parent_Scene.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(9)Late Load/(1)modules/(0)PHI_Icons.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(0)crafting_data/(0)Equipment_Objects.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Option_Selection.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Filtered_Window.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(0)Modules/(0)Shared_Index.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Help_Window.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(53) Window_Selectable.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Inventory_Window.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(2)Equip_Scene.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(0)Pioneer Book/(1)Window_Pioneer_Book.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(0)Pioneer Book/(2)Scene_Pioneer_Book.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(272) INVL - Inventory Help.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally/(4) PHI Game_Party Statistics.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(269) INVL - Party Storage Handler.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(271) INVL - Inventory Window.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(273) INVL - Storage Windows.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(281) INVL - Scene_Item_Storage.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage/(282) INVL - Scene_Shop(O).rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Enchant/(3)Enchant_Scene.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Enchant/(1)Enchant_Element.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(0)crafting_data/(1)Enchantment_Data_Modules.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(349)PHI Character_Animations.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(348) PHI Character_Shove.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(42) Sprite_Character.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally/(1) PHI Actor_Param_Overhaul.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(20) Game_Actor.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Sprite_Battler.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(0) Sprite_Base.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(0)0core/(1) PHI Battler_Action_Overhaul.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(2)Map Scenes/(3)scenes/(260) Scene_Map_Battle.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(69) Window_SaveFile.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(1)interface/(1)Battle_Windows/(226)PHI Window_TiledParty.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(1)interface/(0X)Deprecated/(221) PHI Window_BattlerCharacter.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Window_StatusData.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Window_StatusCharacter.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(52) Window_Base.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(0)sprite_data/(0)Sprite_Data.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Sprite_Character.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(350)PHI_Character_AniFramework.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(347) YEM Extended Movement.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(35) Game_Player.rb" />
+        <option value="$PROJECT_DIR$/(0)primary/(32) Game_Character.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)player/(205) PHI Game_Player.rb" />
+        <option value="$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(349)PHI_Character_Animations.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="Scope" />
+    </order>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="386" />
+    <option name="width" value="1541" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RubyCaseWithoutElseBlockInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers Scope="true" ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)sprite_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)character" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)character" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)party" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)party" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)ally" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)map" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)player_and_enemy_party" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)sprite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(8)menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(8)menu" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)Menu_Rehauls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(8)menu" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)Menu_Rehauls" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)Scene_Equip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(8)menu" type="462c0819:PsiDirectoryNode" />
+              <item name="(0)Menu_Rehauls" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)Scene_Status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RawScripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RawScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="(1)secondary" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)Late Load" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Maximus/Dropbox/Pioneer - Current Build/Data/RawScripts/(0)primary/(20) Game_Actor.rb" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(1)Templates\(0)Create_New" />
+      <recent name="C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(1)Templates\(0)Disassemble" />
+      <recent name="C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(1)Templates\(0)Temper" />
+      <recent name="C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(1)Templates\(0)Rename" />
+      <recent name="C:\Users\Maximus\Dropbox\Pioneer - Current Build\Data\RawScripts\(1)secondary\(8)menu\(0)Menu_Rehauls\(7)Equipment and Enchanting\(0)Modules" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.Loader">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="RawScripts" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
+      <module name="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
+      <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RACK_CONFIG_SETTINGS_ID NAME="CONFIG_FILE" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="RACK_SERVER_TYPE" VALUE="Default" />
+      <RACK_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d566aa6-4f93-4bd0-a61b-0be2487beea4" name="Default" comment="" />
+      <created>1441067809766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1441067809766</updated>
+      <workItem from="1472757375903" duration="73000" />
+      <workItem from="1475196055007" duration="3894000" />
+      <workItem from="1475212954972" duration="10859000" />
+      <workItem from="1475345681221" duration="23416000" />
+      <workItem from="1475470648833" duration="30411000" />
+      <workItem from="1475616244076" duration="1453000" />
+      <workItem from="1475635598651" duration="601000" />
+      <workItem from="1475686987486" duration="1701000" />
+      <workItem from="1475822929261" duration="4943000" />
+      <workItem from="1475878357063" duration="8697000" />
+      <workItem from="1476508676642" duration="320000" />
+      <workItem from="1476521627148" duration="17703000" />
+      <workItem from="1477080937458" duration="3971000" />
+      <workItem from="1477101818304" duration="15272000" />
+      <workItem from="1477258365791" duration="977000" />
+      <workItem from="1477330318215" duration="25529000" />
+      <workItem from="1477382773675" duration="4186000" />
+      <workItem from="1477419292049" duration="16627000" />
+      <workItem from="1477641810172" duration="27184000" />
+      <workItem from="1477888278969" duration="611000" />
+      <workItem from="1477971967762" duration="29894000" />
+      <workItem from="1478241151616" duration="19124000" />
+      <workItem from="1478408532004" duration="831000" />
+      <workItem from="1478483310851" duration="11075000" />
+      <workItem from="1478653630373" duration="1394000" />
+      <workItem from="1478682804813" duration="602000" />
+      <workItem from="1478847714226" duration="1934000" />
+      <workItem from="1478918531767" duration="8318000" />
+      <workItem from="1479066260585" duration="23088000" />
+      <workItem from="1479279083407" duration="13307000" />
+      <workItem from="1479432048905" duration="15536000" />
+      <workItem from="1479697264085" duration="3701000" />
+      <workItem from="1479763052506" duration="18864000" />
+      <workItem from="1481075609113" duration="31000" />
+      <workItem from="1481075918132" duration="7525000" />
+      <workItem from="1481834870653" duration="696000" />
+      <workItem from="1481835845592" duration="2725000" />
+      <workItem from="1482006835690" duration="3761000" />
+      <workItem from="1482441032417" duration="2999000" />
+      <workItem from="1483149679178" duration="8830000" />
+      <workItem from="1483394085026" duration="24307000" />
+      <workItem from="1483591487583" duration="2812000" />
+      <workItem from="1483737650314" duration="13492000" />
+      <workItem from="1483764703313" duration="57222000" />
+      <workItem from="1484349933759" duration="8587000" />
+      <workItem from="1484779274658" duration="11242000" />
+      <workItem from="1484864924574" duration="1349000" />
+      <workItem from="1484868093184" duration="4685000" />
+      <workItem from="1484886849047" duration="3564000" />
+      <workItem from="1485000100787" duration="22287000" />
+      <workItem from="1485210483193" duration="6477000" />
+      <workItem from="1485292827063" duration="57710000" />
+      <workItem from="1485516425954" duration="21082000" />
+      <workItem from="1485644277630" duration="11058000" />
+      <workItem from="1485741278703" duration="779000" />
+      <workItem from="1485751805231" duration="16792000" />
+      <workItem from="1485829180689" duration="9705000" />
+      <workItem from="1485991466112" duration="62912000" />
+      <workItem from="1486365708883" duration="5130000" />
+      <workItem from="1486424274419" duration="25310000" />
+      <workItem from="1486679021410" duration="9710000" />
+      <workItem from="1486939847490" duration="21915000" />
+      <workItem from="1487137787936" duration="5591000" />
+      <workItem from="1487216761698" duration="3835000" />
+      <workItem from="1487277728718" duration="29586000" />
+      <workItem from="1487330033583" duration="3539000" />
+      <workItem from="1487375500473" duration="5006000" />
+      <workItem from="1487395230212" duration="31171000" />
+      <workItem from="1487711768571" duration="11170000" />
+      <workItem from="1487848134169" duration="5771000" />
+      <workItem from="1487911800605" duration="52900000" />
+      <workItem from="1488174036958" duration="3227000" />
+      <workItem from="1488279686498" duration="45345000" />
+      <workItem from="1488798702498" duration="23547000" />
+      <workItem from="1489113903011" duration="21199000" />
+      <workItem from="1489270061492" duration="2242000" />
+      <workItem from="1489358758794" duration="23887000" />
+      <workItem from="1489569100471" duration="55983000" />
+      <workItem from="1489878115944" duration="37230000" />
+      <workItem from="1490041169620" duration="14289000" />
+      <workItem from="1490335243118" duration="41171000" />
+      <workItem from="1490759824388" duration="8649000" />
+      <workItem from="1490826802684" duration="10788000" />
+      <workItem from="1490847565818" duration="64014000" />
+      <workItem from="1491550580754" duration="1476000" />
+      <workItem from="1491602451611" duration="36917000" />
+      <workItem from="1491770765165" duration="1573000" />
+      <workItem from="1491772772901" duration="174000" />
+      <workItem from="1491783986593" duration="80000" />
+      <workItem from="1491784093581" duration="4461000" />
+      <workItem from="1491900739354" duration="4436000" />
+      <workItem from="1491955647397" duration="606000" />
+      <workItem from="1491957073582" duration="770000" />
+      <workItem from="1491977403751" duration="59000" />
+      <workItem from="1491979640725" duration="30000" />
+      <workItem from="1491979757777" duration="8000" />
+      <workItem from="1491979874877" duration="735000" />
+      <workItem from="1492035757896" duration="601000" />
+      <workItem from="1492040203846" duration="142000" />
+      <workItem from="1492040414981" duration="19083000" />
+      <workItem from="1492067552062" duration="1358000" />
+      <workItem from="1492080834572" duration="9599000" />
+      <workItem from="1492164469670" duration="2588000" />
+      <workItem from="1492248694443" duration="8649000" />
+      <workItem from="1492477134601" duration="20273000" />
+      <workItem from="1492737505997" duration="30182000" />
+      <workItem from="1493091871229" duration="10142000" />
+      <workItem from="1493932628238" duration="3057000" />
+      <workItem from="1494048251341" duration="4316000" />
+      <workItem from="1494277289632" duration="10954000" />
+      <workItem from="1494727556286" duration="3321000" />
+      <workItem from="1494974696547" duration="3637000" />
+      <workItem from="1494992945199" duration="4889000" />
+      <workItem from="1495151095226" duration="21483000" />
+      <workItem from="1495875542454" duration="15109000" />
+      <workItem from="1496499200406" duration="28000000" />
+      <workItem from="1497685085544" duration="1807000" />
+      <workItem from="1498338275234" duration="10985000" />
+      <workItem from="1498591128271" duration="4496000" />
+      <workItem from="1498656754203" duration="59536000" />
+      <workItem from="1499046893791" duration="8876000" />
+      <workItem from="1499177702193" duration="28003000" />
+      <workItem from="1499390226180" duration="20448000" />
+      <workItem from="1499832450139" duration="814000" />
+      <workItem from="1499917327615" duration="36526000" />
+      <workItem from="1500503152823" duration="18959000" />
+      <workItem from="1501286310597" duration="1893000" />
+      <workItem from="1501485302869" duration="11031000" />
+      <workItem from="1501738528893" duration="8531000" />
+      <workItem from="1502326605325" duration="6097000" />
+      <workItem from="1502535298961" duration="1243000" />
+      <workItem from="1502710487474" duration="8459000" />
+      <workItem from="1503096168603" duration="10892000" />
+      <workItem from="1503278452226" duration="11021000" />
+      <workItem from="1503389574610" duration="1007000" />
+      <workItem from="1503402393795" duration="75000" />
+      <workItem from="1503402609820" duration="30297000" />
+      <workItem from="1503664372395" duration="36537000" />
+      <workItem from="1503995465962" duration="9893000" />
+      <workItem from="1504067429914" duration="1199000" />
+      <workItem from="1504182835405" duration="5899000" />
+      <workItem from="1504324385522" duration="128430000" />
+      <workItem from="1505390428439" duration="711000" />
+      <workItem from="1505392558575" duration="690000" />
+      <workItem from="1505442236358" duration="69574000" />
+      <workItem from="1505868920079" duration="1879000" />
+      <workItem from="1505915951749" duration="32220000" />
+      <workItem from="1506337098090" duration="11539000" />
+      <workItem from="1506432322955" duration="21020000" />
+      <workItem from="1506602164954" duration="22674000" />
+      <workItem from="1506740294493" duration="38310000" />
+      <workItem from="1507304334993" duration="62688000" />
+      <workItem from="1507872451918" duration="19346000" />
+      <workItem from="1508134170362" duration="43541000" />
+      <workItem from="1508739122534" duration="51189000" />
+      <workItem from="1509174436115" duration="21227000" />
+      <workItem from="1509507918826" duration="3179000" />
+      <workItem from="1509619932662" duration="1859000" />
+      <workItem from="1511019424292" duration="1764000" />
+      <workItem from="1511544506280" duration="2363000" />
+      <workItem from="1511975398750" duration="719000" />
+      <workItem from="1512752622147" duration="4533000" />
+      <workItem from="1513710776544" duration="1212000" />
+      <workItem from="1513796221325" duration="5484000" />
+      <workItem from="1514320233932" duration="4981000" />
+      <workItem from="1514752476981" duration="795000" />
+      <workItem from="1514932043266" duration="10661000" />
+      <workItem from="1515190739814" duration="3906000" />
+      <workItem from="1515284272018" duration="4064000" />
+      <workItem from="1515455438856" duration="11199000" />
+      <workItem from="1515672979122" duration="14949000" />
+      <workItem from="1515810474590" duration="367000" />
+      <workItem from="1515811343778" duration="6816000" />
+      <workItem from="1515909083412" duration="601000" />
+      <workItem from="1516058725922" duration="2205000" />
+      <workItem from="1516266210720" duration="4926000" />
+      <workItem from="1516631774340" duration="17397000" />
+      <workItem from="1516881942715" duration="690000" />
+      <workItem from="1516967172040" duration="3936000" />
+      <workItem from="1517400771710" duration="3898000" />
+      <workItem from="1517832052610" duration="12759000" />
+      <workItem from="1518052747399" duration="599000" />
+      <workItem from="1518492183561" duration="1197000" />
+      <workItem from="1518575259296" duration="731000" />
+      <workItem from="1518585398156" duration="13112000" />
+      <workItem from="1518781867701" duration="6652000" />
+      <workItem from="1518940088891" duration="12143000" />
+      <workItem from="1519060672263" duration="12134000" />
+      <workItem from="1519131675681" duration="29378000" />
+      <workItem from="1519560241446" duration="17371000" />
+      <workItem from="1519670688421" duration="33747000" />
+      <workItem from="1519947430757" duration="1187000" />
+      <workItem from="1519995985894" duration="5616000" />
+      <workItem from="1520285584444" duration="2262000" />
+      <workItem from="1520297705108" duration="893000" />
+      <workItem from="1520372042227" duration="746000" />
+      <workItem from="1520375718399" duration="17000" />
+      <workItem from="1520375788805" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_tests_in_(1)secondary__RawScripts - 2016.12.15 at 12h 57m 46s.xml">
+      <configuration name="All tests in (1)secondary: RawScripts" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_(1)secondary__RawScripts - 2016.12.15 at 12h 58m 23s.xml">
+      <configuration name="All tests in (1)secondary: RawScripts" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_(1)secondary__RawScripts - 2016.12.15 at 12h 58m 32s.xml">
+      <configuration name="All tests in (1)secondary: RawScripts" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_(1)secondary__RawScripts - 2016.12.15 at 12h 58m 44s.xml">
+      <configuration name="All tests in (1)secondary: RawScripts" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2642738000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="386" y="0" width="1541" height="1087" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2255233" sideWeight="0.5007776" order="0" side_tool="false" content_ui="combo" x="719" y="81" width="298" height="929" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23351352" sideWeight="0.513382" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32834032" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10237069" sideWeight="0.486618" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23473541" sideWeight="0.48756218" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27460426" sideWeight="0.4992224" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39651415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997923" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22653721" sideWeight="0.48977777" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="83" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(0)crafting_data/(1)Enchantment_Data_Modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="29" lean-forward="false" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(0)Modules/(0)Book_Data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(0)crafting_data/(0)Equipment_Objects.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7701">
+          <caret line="453" column="6" lean-forward="false" selection-start-line="453" selection-start-column="6" selection-end-line="453" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(9)Late Load/(0)classes/(129) YEZ Core Fixes and Upgrades.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <caret line="542" column="35" lean-forward="true" selection-start-line="542" selection-start-column="35" selection-end-line="542" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(41) Sprite_Base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="139" column="6" lean-forward="false" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(0)sprite_data/(1)Char_Sprite.rb" />
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Enchant/(3)Enchant_Scene.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Inventory_Window.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="180" column="52" lean-forward="false" selection-start-line="180" selection-start-column="52" selection-end-line="180" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(42) Sprite_Character.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="84" column="16" lean-forward="false" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally/(0) PHI Game_Party Caterpillar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="182" column="6" lean-forward="false" selection-start-line="182" selection-start-column="6" selection-end-line="182" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/hash.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="429" column="8" lean-forward="false" selection-start-line="429" selection-start-column="8" selection-end-line="429" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(20) Game_Actor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="595" column="16" lean-forward="false" selection-start-line="595" selection-start-column="16" selection-end-line="595" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(1)data/battle_action.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally/(1) PHI Actor_Param_Overhaul.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="485" column="6" lean-forward="false" selection-start-line="485" selection-start-column="6" selection-end-line="485" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(2)Map Scenes/(0)virtual/(343) FUN 1 Event Handler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="335" column="6" lean-forward="false" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(9)Late Load/(0)classes/(132) KGC_ContinueBGM.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Sprite_Battler.rb" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs22/queue.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2)Sprite_Numeric_Popup.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(0)BaseClasses/(2)System_Config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(0) Sprite_Base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="170" column="26" lean-forward="false" selection-start-line="170" selection-start-column="7" selection-end-line="170" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(204) PHI Game_Char Sight Addon.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Spriteset_Map.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="184" column="20" lean-forward="false" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(69) Window_SaveFile.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(0)0core/(1) PHI Battler_Action_Overhaul.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="570" column="32" lean-forward="true" selection-start-line="570" selection-start-column="32" selection-end-line="570" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(1)interface/(1)Battle_Windows/(226)PHI Window_TiledParty.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(1)interface/(1)Battle_Windows/(3) PHI Window_BattlerParty.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="379" column="12" lean-forward="true" selection-start-line="379" selection-start-column="12" selection-end-line="379" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Window_StatusEquipment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Scene_Status.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(1)interface/(0X)Deprecated/(221) PHI Window_BattlerCharacter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="181" column="2" lean-forward="true" selection-start-line="181" selection-start-column="2" selection-end-line="181" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Window_StatusCharacter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Equip/(0)Window_EquipStatus.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Equip/(0)Window_EquipItems.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Status/(0)Window_StatusData.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="183" column="41" lean-forward="true" selection-start-line="183" selection-start-column="41" selection-end-line="183" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(52) Window_Base.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="224" column="28" lean-forward="true" selection-start-line="224" selection-start-column="28" selection-end-line="224" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Equip/(1)Scene_Equip.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(0)Pioneer Book/(1)Window_Pioneer_Book.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(1)Equip_Help_Window.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="20" lean-forward="false" selection-start-line="169" selection-start-column="20" selection-end-line="169" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(7)Equipment and Enchanting/(1)Construct/(0)Equip/(2)Equip_Scene.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="29" lean-forward="false" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(9)Late Load/(1)modules/(0)PHI_Icons.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(2)Map Scenes/(3)scenes/(260) Scene_Map_Battle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8449">
+          <caret line="497" column="22" lean-forward="false" selection-start-line="497" selection-start-column="22" selection-end-line="497" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Equip/(0)Window_Equip.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(35) Game_Player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="66" column="12" lean-forward="false" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(0)sprite_data/(0)Sprite_Data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="21" lean-forward="false" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(0)primary/(32) Game_Character.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="40" lean-forward="false" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite/(2) Sprite_Character.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9146">
+          <caret line="538" column="43" lean-forward="false" selection-start-line="538" selection-start-column="43" selection-end-line="538" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(350)PHI_Character_AniFramework.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(347) YEM Extended Movement.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(348) PHI Character_Shove.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="183" column="10" lean-forward="false" selection-start-line="183" selection-start-column="10" selection-end-line="183" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)player/(205) PHI Game_Player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="24" lean-forward="false" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character/(349)PHI_Character_Animations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="515" column="11" lean-forward="true" selection-start-line="515" selection-start-column="11" selection-end-line="515" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Scope</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19199058" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Scope" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

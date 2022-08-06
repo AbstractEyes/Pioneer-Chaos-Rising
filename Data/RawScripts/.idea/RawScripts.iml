@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared>
+      <configuration default="false" name="Loader" type="RubyRunConfigurationType" factoryName="Ruby">
+        <module name="RawScripts" />
+        <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+        <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/../.." />
+        <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+        <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+        <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+        <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+        <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+        <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/(1)secondary/(0X)disabled/launch.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+        <method v="2" />
+      </configuration>
+    </shared>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(0)0core" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Entities" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Skills" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0X)disabled" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0X)todo" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)craft" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)BaseClasses" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(2)title" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(0)classes" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(0)0core/(0)entities" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(0)0core/(0)modules" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Entities/(0)code" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Entities/(1)data" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(1)Formation" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(0)Book_Base" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(5)Options/(0)old options" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(9)zcontrols" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(1)macro" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0X)disabled/(0X)deprecated main menu" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(1)Scene_Members/(1)Party" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Skills/(0)Data" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Skills/(0)Code" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)Skills/(0X)Old" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(0)crafting_data" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(6)Crafting_Enchanting/scene" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls/(8)Storage" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)AI" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)character" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)event" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(0)character/(0)player" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(0)0core" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)ally" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)party/(1)enemy" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(0)player_and_enemy_party/(1)sprite" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(9)Late Load/(1)modules" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)data" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)interface" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)interface/(0X)Deprecated" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)interface/(1)Battle_Windows" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(1)interface/(1)Passive_Windows" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(2)Map Scenes/(3)scenes" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(4)other" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(2)Map Scenes/(0)virtual" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/(1)secondary/(1)map/(2)Map Scenes" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea.old" />
+    </content>
+    <orderEntry type="jdk" jdkName="ruby-2.6.4-p104" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="65" string0="$MODULE_DIR$/(1)secondary/(0)0core" string1="$MODULE_DIR$/(1)secondary/(0)0core/(0)classes" string2="$MODULE_DIR$/(1)secondary/(0)0core/(0)entities" string3="$MODULE_DIR$/(1)secondary/(0)0core/(0)modules" string4="$MODULE_DIR$/(1)secondary/(0)menu/(0)options/(0)controls" string5="$MODULE_DIR$/(1)secondary/zexternal" string6="$MODULE_DIR$/(1)secondary/(3)map/virtual" string7="$MODULE_DIR$/(1)secondary/(3)map/other" string8="$MODULE_DIR$/(1)secondary/(3)map/(2)scenes" string9="$MODULE_DIR$/(1)secondary/(3)map/(1)interface/(1)Passive_Windows" string10="$MODULE_DIR$/(1)secondary/(3)map/(1)interface/(1)Battle_Windows" string11="$MODULE_DIR$/(1)secondary/(3)map/(1)interface/(0X)Deprecated" string12="$MODULE_DIR$/(1)secondary/(3)map/(1)interface" string13="$MODULE_DIR$/(1)secondary/(3)map/(1)data" string14="$MODULE_DIR$/(1)secondary/(3)map/(0)modules" string15="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)sprite" string16="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)party/(0)enemy" string17="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)party/(0)ally" string18="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)party/(0)0core" string19="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)party" string20="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)character/(0)player" string21="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)character/(0)event" string22="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)character/(0)AI" string23="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)character/(0)character" string24="$MODULE_DIR$/(1)secondary/(3)map/(0)character/(0)character" string25="$MODULE_DIR$/(1)secondary/(3)map/(0)character" string26="$MODULE_DIR$/(1)secondary/(3)map" string27="$MODULE_DIR$/(1)secondary/(2)title" string28="$MODULE_DIR$/(1)secondary/(1)shapes" string29="$MODULE_DIR$/(1)secondary/(1)craft/storage" string30="$MODULE_DIR$/(1)secondary/(1)craft/scene" string31="$MODULE_DIR$/(1)secondary/(1)craft/data" string32="$MODULE_DIR$/(1)secondary/(1)craft" string33="$MODULE_DIR$/(1)secondary/(0X)todo" string34="$MODULE_DIR$/(1)secondary/(0X)disabled" string35="$MODULE_DIR$/(1)secondary/(0)menu/(1)main menu" string36="$MODULE_DIR$/(1)secondary/(0)menu/(1)macro" string37="$MODULE_DIR$/(1)secondary/(0)menu/(1)Skill Tree" string38="$MODULE_DIR$/(1)secondary/(0)menu/(1)Party" string39="$MODULE_DIR$/(1)secondary/(0)menu/(0)options" string40="$MODULE_DIR$/(1)secondary/(0)menu/(0)Pioneer Book" string41="$MODULE_DIR$/(1)secondary/(0)menu/(0)Menu_Rehauls" string42="$MODULE_DIR$/(1)secondary/(0)menu/(0)Menu_Rehauls/(0)Book_Base" string43="$MODULE_DIR$/(1)secondary/(0)menu/(0)Menu_Rehauls/(1)Scene_Status" string44="$MODULE_DIR$/(1)secondary/(0)menu/(0)Formation" string45="$MODULE_DIR$/(1)secondary/(0)menu" string46="$MODULE_DIR$/(1)secondary/(0)Entities" string47="$MODULE_DIR$/(1)secondary/(0)Entities/(0)code" string48="$MODULE_DIR$/(1)secondary/(0)Entities/(0)data" string49="$MODULE_DIR$/(1)secondary/(0)Skills" string50="$MODULE_DIR$/(1)secondary/(0)Skills/(0)Code" string51="$MODULE_DIR$/(1)secondary/(0)Skills/(0)Data" string52="$MODULE_DIR$/(1)secondary/(0)Skills/(0X)Old" string53="$MODULE_DIR$/(0)primary" string54="$MODULE_DIR$/(1)secondary" string55="$MODULE_DIR$/(1)secondary/(9)Late Load/(9)latest" string56="$MODULE_DIR$/(1)secondary/(0)BaseClasses" string57="$MODULE_DIR$/(1)secondary/(1)map" string58="$MODULE_DIR$/(1)secondary/(8)menu" string59="$MODULE_DIR$/(1)secondary/(9)Late Load" string60="$MODULE_DIR$/(1)secondary/(8)menu/(0)Menu_Rehauls" string61="$MODULE_DIR$/(1)secondary/(8)menu/(1)macro" string62="$MODULE_DIR$/(1)secondary/(8)menu/(2)title" string63="$MODULE_DIR$/(1)secondary/(0)sprite_data" string64="$MODULE_DIR$/(1)secondary/(0)Toolbelt" />
+    <I18N_FOLDERS number="0" />
+  </component>
+</module>

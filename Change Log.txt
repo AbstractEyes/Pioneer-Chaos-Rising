@@ -1,0 +1,244 @@
+#---------------#
+#Version 1.0.1.1#
+#   To          #
+#Version 1.0.1.4#
+#---------------#
+	Content Changes:
+		Town:
+			-Still working on the worker systems.
+		Dungeons:
+			-Disabled for now, most focus will remain on the regions, to include the best possible content.
+		Other:
+			-Main menu has a version counter, and has been reshapen slightly to allow for a more detailed main menu animated picture set.
+			
+	Bug Fixes:
+		-Mostly minor system change bugfixes, with some inner workings being fixed.
+		
+	Full Systems Included:
+		-Xbox 360 controller support added.  Plug and play.
+		-Fullscreen button added, F3.  Cannot rebind currently.  Will always do "stretchy" mode, with alt + enter.  But I advise using F3.
+		-Resolution controls added into main menu.
+			
+	System Revisions:
+		-Launcher completely remade, links are included in the discussion forums.  See forum post for details.
+		-Worker system needs more work, but is further along.  As you upgrade your town center areas the workers will automatically populate.
+		
+#---------------#
+#Version 1.0.0.1#
+#  To           #
+#Version 1.0.0.X#
+#---------------#
+	Content Changes:
+	
+		NPCs:
+			-System explanation helper added.
+			-Set quick travel crystals and script for quick travel.
+			-Script room return npc in town center
+			-Many npcs added throughout the town
+			
+		Town: Still needs lots of work.
+			-Completed town construction scene set.
+			-Designed some town buildings, and put up baracades for areas you can't enter.
+			-Town open for testing.
+			-Makeshift boulder baracades set up.
+			
+		Dungeons:
+			-Fixed dungeon hotspots only working for one use, not using based on the amount the spots are designated at generation.
+			-Rewrote entire dungeon system.
+			
+		Items:
+			-Rewrote entire cost balance scale for entire item set
+			-Included new 5 scale items for crafting, that were formerly only on paper
+			-Write limitation use script, so events arent 15 lines per item, just one.
+			-Write custom gathering max item handler
+			
+	Bug Fixes:
+		-Down bound to escape by default, corrected to arrow key.
+		-Fixed major issue with sub inputs, all working correctly now.
+		-Fixed problems with ram leaks and some windows not disposing properly when designated to dispose.
+		-Fix item capacity problems with equip scene
+		-Fixed skill list not being populated correctly.
+		
+	Full System Changes:
+		-Entire level up system rescaled with new exp scale.  Playthrough 1 level cap changed to 120, instead of 100.
+		-Included systems for playthrough 2 scaling
+		-Pioneer Level scaled with the new exp scale as well, including the new level cap at 999.
+		-Entire gear level system rescaled.  Gear cap increased to 100, scales set for up to level 200.
+		-Quick travel added to town.
+		-Rewrote entire town system to flow better with scripting.
+		-Fix rewards and cycles for town buildings and upgrades		
+		-Designed launcher - not hardcoded to update server
+		-Designed input config app, all input system config changes have been applied.
+		-Changed how the storage scene works and functions.
+		-Created proper crafting scene with working functions.
+		-Crafting scene completely remade.
+		-Storage system completely remade.
+		
+		
+	Other Changes:
+		-Removed limitations from debug scripts, allowing for use by testers without the game making program.
+		
+		
+# ----------------------------------------------------------- #		
+
+Future Content List:		
+		
+	To Do:
+		Full Systems:
+		
+			-Worker System - Many Problems Remain
+				-Include Worker Rewards
+				-Finish Data For Workers
+				-Debug Problems
+				
+			-Job List - Many Problems Remain
+				-Include sorting options
+				-Debug Problems
+			
+			-Launcher
+				-Integrate graphics options
+				-Hardcode to update server
+				-Set launcher to disable game from being used by the icon, requires launcher use.
+				
+			-Airship Scene
+				-Design system
+				-Set costs and requirements
+				-Design options
+				-Integrate switches from current area upgrades
+				-Create and finish scene
+				
+			-Dungeon Master Scene
+				-Design system
+				-Set costs and requirements
+				-Design options
+				-Integrate switches from current area upgrades
+			
+		Town:
+			-Set town building events
+			-Set all town upgrade switches to have some sort of action
+				-Pioneer House
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Town Center
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				XEmpty Plot
+				
+				-Workshop
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Coin Market
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Resource Market
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Bank
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Dungeon Lord
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Farmland
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Mining Shaft
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Fishing Hole
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Hunting Camp
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+
+				-Airship Dock
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+
+				XRoad
+				
+				-Casino
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+
+				-Artifact Museum
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+
+				-Trade Station
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+					
+				-Arcane Tower
+					-Visual
+					-Events
+					-Scripts
+					-Doors
+
+			-Enable quick reset buttons for town, workers, and builders.
+			-Write recipes for buildings, and upgrades.
+			
+		Region Maps:
+			-Move all region hotspots to allow for regional use.
+			-Enable regional large monster.
+			-Event large monster to be beastly, annoying, and very dangerous.
+			-Write regional script for rewards, including boss monster "antics".
+			
+		Dungeon Maps:
+			-Fix Dungeon starts and finishes
+			-Scale dungeon hotspots to allow for new level items to be farmed from the spots.
+			-Rewrite item reward events for all hotspots, into script form, allowing for use of use of limitation use script.
+			-Scale monster levels
+			
+		Items:
+			-Write consumable item recipes
+			-Write fish recipes
+			-Write bar recipes
+			
+		Gear:
+			-Rescale weapons and armor prices
+			-Write weapon and armor recipes
+			
+		Skills:
+			-Skill learn levels

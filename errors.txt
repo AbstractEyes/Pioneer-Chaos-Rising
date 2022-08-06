@@ -1,0 +1,5 @@
+*Error - 2016-04-09 15:07:25 (Saturday)
+Exception : NoMethodError
+undefined method `setup_list_for_self' for #<RPG::Item:0x386ea28>
+trace:
+["PHI-TitleScreen.rb:152:in `initialize_item_params'", "PHI-TitleScreen.rb:150:in `each'", "PHI-TitleScreen.rb:150:in `initialize_item_params'", "PHI-TitleScreen.rb:123:in `load_database'", "PHI-TitleScreen.rb:31:in `start'", "Scene_Base.rb:12:in `main_gobj'", "Graphicsviewport+planefix.rb:209:in `main'", "PHI-TitleScreen.rb:22:in `main'", ":57", "( Main )：13", "( Main )：10:in `each'", "( Main )：10", "( Main )：9:in `each'", "( Main )：9"]

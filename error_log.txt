@@ -1,0 +1,11 @@
+PHIWindow_SkillIcons.rb:539:in `animate_icon_tree_movement': undefined method `x' for nil:NilClass, NoMethodError
+	from PHIWindow_SkillIcons.rb:531:in `each'
+	from PHIWindow_SkillIcons.rb:531:in `animate_icon_tree_movement'
+	from PHIWindow_SkillIcons.rb:495:in `update'
+	from Scenes/(3)scenes/(260)Scene_Map_Battle.rb:99:in `test_keys_update'
+	from Load/(9)latest/(370)Needed-ORIW_DebugTools.rb:72:in `update'
+	from Scene_Base.rb:19:in `main_gobj'
+	from Scene_Base.rb:16:in `loop'
+	from Scene_Base.rb:21:in `main_gobj'
+	from Load/(0)classes/(415)Graphicsviewport+planefix.rb:209:in `main'
+	from Section007:21

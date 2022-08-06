@@ -1,0 +1,31 @@
+version 0.4.2.0 
+window_x 586 
+window_y 6 
+window_w 1180 
+window_h 886 
+CT_Up 545 
+CT_Down 544 
+CT_Left 543 
+CT_Right 542 
+CT_Dash 531 
+CT_Cancel 532 
+CT_Confirm 533 
+CT_Display 534 
+CT_Menu 530 
+CT_Pause 541 
+CT_PageUp 536 
+CT_PageDown 537 
+KB_Preset 3 
+KB_Up 87 38
+KB_Down 83 40
+KB_Left 65 37
+KB_Right 68 39
+KB_Dash 96 16
+KB_Cancel 101 75
+KB_Confirm 100 74
+KB_Display 103 85
+KB_Menu 104 -1
+KB_Pause 80 -1
+KB_PageUp 104 73
+KB_PageDown 105 79
+05 79 

@@ -1,0 +1,12 @@
+up 545
+down 544
+left 543
+right 542
+dash 531
+confirm 533
+menu 532
+hud 530
+pageup 537
+pagedown 536
+sandbox 541
+pause 541

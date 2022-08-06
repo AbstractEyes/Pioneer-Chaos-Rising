@@ -1,0 +1,12 @@
+Keyboard Preset 3
+up 87 -1
+down 83 40
+left 65 37
+right 68 39
+dash 96 16
+confirm 100 74
+menu 101 75
+hud 103 85
+pageup 104 73
+pagedown 105 79
+sandbox 97 80
